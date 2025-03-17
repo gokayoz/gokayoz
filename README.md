@@ -1,6 +1,6 @@
 # 👋 Hi there I'm Gökay Öz
 
-- 🌱 I’m currently learning software
+- 🌱 I’m currently learning software 🤘
 - 📫 How to reach me: gokay.oz@outlook.com.tr
 
 # 💻 Tech Stack:
