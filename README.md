@@ -10,5 +10,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gokayoz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokayoz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokayoz/gokayoz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokayoz/gokayoz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gokayoz/gokayoz/output/github-snake.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
