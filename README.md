@@ -20,9 +20,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/gokayoz/gokayoz/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gokayoz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gokayoz&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokayoz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=gokayoz&theme=transparent&hide_border=true)<br/> -->
