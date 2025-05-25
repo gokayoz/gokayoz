@@ -10,6 +10,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gokayoz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokayoz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -19,5 +22,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokayoz/gokayoz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gokayoz/gokayoz/output/github-snake.svg" />
 </picture>
-
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=gokayoz&theme=transparent&hide_border=true)<br/> -->
