@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuget/004880" height="40" alt="nuget logo"  />
+  
 </div>
 
 <h2 align="left">Stats</h2>
