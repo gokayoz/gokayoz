@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  
 </div>
 
 <h2 align="left">Stats</h2>
