@@ -9,7 +9,7 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cs,git,github,html,css,js,bootstrap,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,bootstrap,git,github,postman" />
 </div>
 
 <h2 align="left">Stats</h2>
